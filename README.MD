@@ -5,6 +5,7 @@ for now this program only works on windows.i'll develop this to support other op
 But you need to do a few things to make this program to run
 * first,you have to install python 3.x. you can download it from [this link](https://www.python.org/downloads/)
 * then,you have to install pyperclip package using the following command:
+
     ``` pip install pyperclip ```
 * then simply run python categorizer.py (make sure you are in the directory that contains categorizer.py)
 
